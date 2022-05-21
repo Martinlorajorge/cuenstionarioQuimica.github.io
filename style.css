@@ -16,8 +16,10 @@ h1 {
 	margin: auto;
 }
 
-@media screen (min-width 600px) {
-	.contenido 100%;
+@media (max-width: 400px) {
+	.contenido {
+		width: 100%;
+	}
 }
 
 #test {
