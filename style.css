@@ -16,7 +16,7 @@ h1 {
 	margin: auto;
 }
 
-@media (max-width: 600px) {
+@media (min-width: 300px) {
 	.contenido {
 		width: 100%;
 	}
